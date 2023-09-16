@@ -1,0 +1,6 @@
+D:\Project\Project C#\EstateApp\BE\bin\Debug\BE.dll
+D:\Project\Project C#\EstateApp\BE\bin\Debug\BE.pdb
+D:\Project\Project C#\EstateApp\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+D:\Project\Project C#\EstateApp\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+D:\Project\Project C#\EstateApp\BE\obj\Debug\BE.dll
+D:\Project\Project C#\EstateApp\BE\obj\Debug\BE.pdb

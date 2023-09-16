@@ -1,0 +1,14 @@
+D:\Project\Project C#\EstateApp\DAL\bin\Debug\DAL.dll.config
+D:\Project\Project C#\EstateApp\DAL\bin\Debug\DAL.dll
+D:\Project\Project C#\EstateApp\DAL\bin\Debug\DAL.pdb
+D:\Project\Project C#\EstateApp\DAL\bin\Debug\BE.dll
+D:\Project\Project C#\EstateApp\DAL\bin\Debug\EntityFramework.dll
+D:\Project\Project C#\EstateApp\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\Project C#\EstateApp\DAL\bin\Debug\BE.pdb
+D:\Project\Project C#\EstateApp\DAL\bin\Debug\EntityFramework.xml
+D:\Project\Project C#\EstateApp\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\Project C#\EstateApp\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Project\Project C#\EstateApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Project\Project C#\EstateApp\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Project\Project C#\EstateApp\DAL\obj\Debug\DAL.dll
+D:\Project\Project C#\EstateApp\DAL\obj\Debug\DAL.pdb
